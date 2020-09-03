@@ -1,0 +1,8 @@
+
+1) #Download Docker ToolBox (Windows or Mac)
+https://docs.docker.com/toolbox/toolbox_install_windows/
+-This Will Install Docker & Docker Compose
+
+2) Run Kitematic (Alpha)
+3) Click Use VirtualBox
+ 
